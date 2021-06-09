@@ -1,0 +1,6 @@
+framework module Pods_My_Space {
+  umbrella header "Pods-My Space-umbrella.h"
+
+  export *
+  module * { export * }
+}
